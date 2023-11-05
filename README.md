@@ -42,4 +42,4 @@ In the long term, I want to design **parallel, real-time, low-carbon, reliable, 
 
 ## Acknowledgements
 
-The implementation of VOL is benefited greatly from by remarkable projects from the community. We would like to sincerely thank [FNO](https://github.com/neuraloperator/neuraloperator/tree/master), [F-FNO](https://github.com/alasdairtran/fourierflow), and [PyTorch](https://github.com/pytorch/pytorch) for their awesome open source.
+The implementation of VOL is benefited greatly from remarkable projects from the community. We would like to sincerely thank [FNO](https://github.com/neuraloperator/neuraloperator/tree/master), [F-FNO](https://github.com/alasdairtran/fourierflow), and [PyTorch](https://github.com/pytorch/pytorch) for their awesome open source.
