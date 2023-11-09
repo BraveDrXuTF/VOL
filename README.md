@@ -3,17 +3,20 @@
 This repository contains the code for the paper:
 - [(VOL) Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations](https://arxiv.org/abs/2023.04234)
 
+🔥 The bitmaps in results with improved quailty have just been updated in the latest preprint of our paper.
 ## HighLights
 
-![cases](./materials/cases.png)
+
  - Backpropagation-free residual: Different from physics-informed approaches, VOL does not need to conduct any additional backpropagation operation to calculate residual.
  - Matrix-free manner ($\mathcal{O}(N)$ time complexity for residual calculation & $\mathcal{O}(1)$ space for filters): VOL also does not need to calculate or assemble stiffness matrix like what we do in traditional FEMs pipeline.
  - For all experiments, VOL uses a label-free training set and a 5-label-only shift and follows a power scaling law.
  - Strictly satisfied Dirichlet boundary condition.
- - VOL can be applied to any field-type neural operator in principle.
-
+ - VOL can be applied to *any field-type neural operator* in principle.
+## Cases
+![cases](./materials/cases.png)
 
 ## Guide to Reproduce the experiment
+
 If you want to reproduce experiments in the paper, please follow the steps below:
 
  - Comment out the code block under `if __name__ == '__main__':` of the corresponding scripts.
