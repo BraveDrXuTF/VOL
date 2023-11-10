@@ -4,6 +4,7 @@ This repository contains the code for the paper:
 - [(VOL) Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations](https://arxiv.org/abs/2023.04234)
 
 🔥 The bitmaps in results with improved quailty have just been updated in the latest preprint of our paper. You can also check the paper in our repository.
+
 ## HighLights
 
 
@@ -12,7 +13,7 @@ This repository contains the code for the paper:
  - For all experiments, VOL uses a label-free training set and a 5-label-only shift and follows a power scaling law.
  - Strictly satisfied Dirichlet boundary condition.
  - VOL can be applied to *any field-type neural operator* in principle.
-## Cases
+## Benchmarks
 ![cases](./materials/cases.png)
 
 ## Guide to Reproduce the experiment
