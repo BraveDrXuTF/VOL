@@ -9,7 +9,7 @@ This repository contains the code for the paper:
 
 
  - Backpropagation-free residual: Different from physics-informed approaches, VOL does not need to conduct any additional backpropagation operation to calculate residual.
- - Matrix-free manner ($\mathcal{O}(N)$ time complexity for residual calculation & $\mathcal{O}(1)$ space for filters): VOL also does not need to calculate or assemble stiffness matrix like what we do in traditional FEMs pipeline.
+ - Matrix-free manner linear time complexity for residual calculation & $O(1)$ space for filters): VOL also does not need to calculate or assemble stiffness matrix like what we do in traditional FEMs pipeline.
  - For all experiments, VOL uses a label-free training set and a 5-label-only shift and follows a power scaling law.
  - Strictly satisfied Dirichlet boundary condition.
  - VOL can be applied to *any field-type neural operator* in principle.
