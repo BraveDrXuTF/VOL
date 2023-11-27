@@ -1,7 +1,7 @@
 # Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations
 
 This repository contains the code for the paper:
-- [(VOL) Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations](https://arxiv.org/abs/2023.04234)
+- [(VOL) Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations](https://arxiv.org/abs/2304.04234)
 
 🔥 The bitmaps in results with improved quailty have just been updated in the latest preprint of our paper. You can also check the paper in our repository.
 
