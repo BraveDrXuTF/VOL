@@ -1472,8 +1472,8 @@ In the long term, I want to design **parallel, real-time, low-carbon, reliable, 
 
 ## License
 
-All data and codes in this repository are distributed under CC BY-NC-SA 4.0, and related algorithms are patent-protected. If you want to use materials in this repository for commercial purposes, please contact us.
+All data and codes in this repository are distributed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt), and related algorithms are patent-protected. If you want to use materials in this repository for commercial purposes, please contact us.
 
 ## Acknowledgements
 
-The implementation of VOL is benefited greatly from by remarkable projects from the community. We would like to sincerely thank [FNO](https://github.com/neuraloperator/neuraloperator/tree/master), [PINO](), [F-FNO](https://github.com/alasdairtran/fourierflow), and [PyTorch](https://github.com/pytorch/pytorch) for their awesome open source.
+The implementation of VOL is benefited greatly from by remarkable projects from the community. We would like to sincerely thank [FNO](https://github.com/neuraloperator/neuraloperator/tree/master), [PINO](https://github.com/neuraloperator/physics_informed), [F-FNO](https://github.com/alasdairtran/fourierflow), and [PyTorch](https://github.com/pytorch/pytorch) for their awesome open source.
