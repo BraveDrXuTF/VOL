@@ -1,9 +1,9 @@
 # Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations
 
-This repository contains the Chinese introduction and README.md for the paper:
+This repository contains README.md and a introduction of VOL in Chinese for the paper:
 - [(VOL) Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations](https://arxiv.org/abs/2304.04234)
 
-To access code and data, visit our [Zenodo repository](https://zenodo.org/doi/10.5281/zenodo.11097869).
+To access code and data, visit [our zenodo repository](https://zenodo.org/doi/10.5281/zenodo.11097869).
 ## HighLights
 
 
